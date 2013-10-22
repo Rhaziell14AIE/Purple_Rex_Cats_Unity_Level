@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 84d180ca8a3f0ca43979be4aa4d02c60
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Cavern_Floor:Group33434
+    100002: Cavern_Floor:Group34271
+    100004: Cavern_Floor:Group65028
+    100006: Cavern_Floor_and_Ceiling_01:Group33434
+    100008: Cavern_Floor_and_Ceiling_01:Group34271
+    100010: Cavern_Floor_and_Ceiling_01:Group65028
+    100012: Cavern_Floor_and_Ceiling_01:Mausoleum_Wall_inner_Rear
+    100014: Cavern_Floor_and_Ceiling_01:pCube1
+    100016: Cavern_Floor_and_Ceiling_01:pCylinder1
+    100018: Cavern_Floor_and_Ceiling_01:pPlane1
+    100020: Cavern_Floor_and_Ceiling_01:pPlane2
+    100022: Cavern_Floor_and_Ceiling_01:pPlane3
+    100024: Grave_Test:Mausoleum:pCube14
+    100026: Grave_Test:Mausoleum:pCube2
+    100028: Grave_Test:Mausoleum:pCube4
+    100030: Grave_Test:Mausoleum:polySurface1
+    100032: graveyard_terrain_01:Group21446
+    100034: Graveyard_Terrain_Tree_02
+    100036: Graveyard_Terrain_Tree_03
+    100038: Graveyard_Terrain_Tree_04
+    100040: Graveyard_Terrain_Tree_05
+    100042: Graveyard_Terrain_Tree_06
+    100044: Graveyard_Terrain_Tree_07
+    100046: Masoleum_Arch_Front
+    100048: Masoleum_Roof_Left
+    100050: Masoleum_Roof_Left_001
+    100052: Masoleum_Roof_Left_002
+    100054: Masoleum_Roof_Right
+    100056: Masoleum_Roof_Right_001
+    100058: Masoleum_Roof_Right_002
+    100060: Mausoleum1:polySurface11
+    100062: Mausoleum1:polySurface3
+    100064: Mausoleum1:polySurface5
+    100066: Mausoleum_Arch
+    100068: Mausoleum_Base
+    100070: Mausoleum_Roof_CenterStrut
+    100072: Mausoleum_Roof_LeftStrut1
+    100074: Mausoleum_Roof_Moulding_Left
+    100076: Mausoleum_Roof_Moulding_Rear
+    100078: Mausoleum_Roof_Moulding_Right
+    100080: Mausoleum_Roof_MouldingFront
+    100082: Mausoleum_Roof_RighttStrut
+    100084: Mausoleum_StoneColumn_Front_Left
+    100086: Mausoleum_StoneColumn_Front_LeftCorner
+    100088: Mausoleum_StoneColumn_Front_Right
+    100090: Mausoleum_StoneColumn_Front_RightCorner
+    100092: Mausoleum_StoneColumn_Rear_LeftCorner1
+    100094: Mausoleum_StoneColumn_Rear_RightCorner
+    100096: pCube1
+    100098: pCube1 1
+    100100: pCube1 2
+    100102: pCube1 3
+    100104: pCube1 4
+    100106: pCube1 5
+    100108: pCube1 6
+    100110: pCube10
+    100112: pCube2
+    100114: pCube2 1
+    100116: pCube2 2
+    100118: pCube2 3
+    100120: pCube2 4
+    100122: pCube2 5
+    100124: pCube2 6
+    100126: pCube3
+    100128: pCube4
+    100130: pCube5
+    100132: pCube6
+    100134: pCube7
+    100136: pCube8
+    100138: pCube9
+    100140: pCylinder1
+    100142: pCylinder2
+    100144: pCylinder2 1
+    100146: pCylinder2 2
+    100148: pCylinder2 3
+    100150: pCylinder2 4
+    100152: pCylinder2 5
+    100154: pCylinder3
+    100156: pCylinder3 1
+    100158: pCylinder3 2
+    100160: pCylinder3 3
+    100162: pCylinder3 4
+    100164: pCylinder3 5
+    100166: pCylinder4
+    100168: pCylinder4 1
+    100170: pCylinder4 2
+    100172: pCylinder4 3
+    100174: pCylinder4 4
+    100176: pCylinder4 5
+    100178: polySurface4
+    100180: polySurface5
+    100182: polySurface6
+    100184: //RootNode
+    100186: PRC_Master_Test:Graveyard_Terrain_Tree_02
+    100188: PRC_Master_Test:pCube1
+    100190: PRC_Master_Test:pCube2
+    100192: PRC_Master_Test:pCylinder2
+    100194: PRC_Master_Test:pCylinder3
+    100196: PRC_Master_Test:pCylinder4
+    100198: Prop_002
+    100200: Prop_004
+    100202: Prop_005
+    100204: Prop_006
+    100206: Scale_Guy
+    100208: Scale_Guy1
+    100210: Spike_Back
+    100212: Spike_Front
+    100214: Spike_Rail_Back_Left
+    100216: Spike_Rail_Back_Right
+    100218: Spike_Rail_Front_Left
+    100220: Spike_Rail_Front_Right
+    100222: Spike_Rail_Spike01
+    100224: Spike_Rail_Spike01 1
+    100226: Spike_Rail_Spike02
+    100228: Spike_Rail_Spike02 1
+    100230: Spike_Rail_Spike03
+    100232: Spike_Rail_Spike03 1
+    100234: Spike_Rail_Spike04
+    100236: Spike_Rail_Spike04 1
+    100238: Spike_Rail_Spike05
+    100240: Spike_Rail_Spike05 1
+    100242: Spike_Rail_Spike06
+    100244: Spike_Rail_Spike06 1
+    100246: Spike_Rail_Spike07
+    100248: Spike_Rail_Spike07 1
+    100250: Spike_Rail_Spike08
+    100252: Spike_Rail_Spike08 1
+    100254: Spike_Rail_Spike09
+    100256: Spike_Rail_Spike09 1
+    100258: Spike_Rail_Spike10
+    100260: Spike_Rail_Spike10 1
+    100262: Spike_Rail_Spike11
+    100264: Spike_Rail_Spike11 1
+    100266: Spike_Rail_Spike12
+    100268: Spike_Rail_Spike12 1
+    100270: Spike_Rail_Spike13
+    100272: Spike_Rail_Spike13 1
+    100274: Spike_Rail_Spike14
+    100276: Spike_Rail_Spike14 1
+    100278: SS_Stairs001
+    100280: SS_Stairs0010
+    100282: SS_Stairs0011
+    100284: SS_Stairs0012
+    100286: SS_Stairs0013
+    100288: SS_Stairs0014
+    100290: SS_Stairs0015
+    100292: SS_Stairs0016
+    100294: SS_Stairs0017
+    100296: SS_Stairs0018
+    100298: SS_Stairs0019
+    100300: SS_Stairs002
+    100302: SS_Stairs0020
+    100304: SS_Stairs0021
+    100306: SS_Stairs0022
+    100308: SS_Stairs0023
+    100310: SS_Stairs0024
+    100312: SS_Stairs0025
+    100314: SS_Stairs0026
+    100316: SS_Stairs0027
+    100318: SS_Stairs0028
+    100320: SS_Stairs0029
+    100322: SS_Stairs003
+    100324: SS_Stairs0030
+    100326: SS_Stairs0031
+    100328: SS_Stairs0032
+    100330: SS_Stairs0033
+    100332: SS_Stairs0034
+    100334: SS_Stairs0035
+    100336: SS_Stairs0036
+    100338: SS_Stairs0037
+    100340: SS_Stairs0038
+    100342: SS_Stairs0039
+    100344: SS_Stairs004
+    100346: SS_Stairs0040
+    100348: SS_Stairs0041
+    100350: SS_Stairs0042
+    100352: SS_Stairs0043
+    100354: SS_Stairs0044
+    100356: SS_Stairs0045
+    100358: SS_Stairs0046
+    100360: SS_Stairs0047
+    100362: SS_Stairs0048
+    100364: SS_Stairs0049
+    100366: SS_Stairs005
+    100368: SS_Stairs0050
+    100370: SS_Stairs0051
+    100372: SS_Stairs0052
+    100374: SS_Stairs0053
+    100376: SS_Stairs0054
+    100378: SS_Stairs0055
+    100380: SS_Stairs0056
+    100382: SS_Stairs0057
+    100384: SS_Stairs0058
+    100386: SS_Stairs0059
+    100388: SS_Stairs006
+    100390: SS_Stairs0060
+    100392: SS_Stairs0061
+    100394: SS_Stairs0062
+    100396: SS_Stairs0063
+    100398: SS_Stairs0064
+    100400: SS_Stairs0065
+    100402: SS_Stairs0066
+    100404: SS_Stairs0067
+    100406: SS_Stairs0068
+    100408: SS_Stairs007
+    100410: SS_Stairs008
+    100412: SS_Stairs009
+    100414: sunDirection
+    100416: transform1
+    100418: transform2
+    100420: transform3
+    100422: transform4
+    100424: transform5
+    100426: transform6
+    100428: transform7
+    100430: transform8
+    100432: Cavern_Floor_and_Ceiling_01:pCylinder2
+    100434: Cavern_Floor_and_Ceiling_01:ambientLight1
+    400000: Cavern_Floor:Group33434
+    400002: Cavern_Floor:Group34271
+    400004: Cavern_Floor:Group65028
+    400006: Cavern_Floor_and_Ceiling_01:Group33434
+    400008: Cavern_Floor_and_Ceiling_01:Group34271
+    400010: Cavern_Floor_and_Ceiling_01:Group65028
+    400012: Cavern_Floor_and_Ceiling_01:Mausoleum_Wall_inner_Rear
+    400014: Cavern_Floor_and_Ceiling_01:pCube1
+    400016: Cavern_Floor_and_Ceiling_01:pCylinder1
+    400018: Cavern_Floor_and_Ceiling_01:pPlane1
+    400020: Cavern_Floor_and_Ceiling_01:pPlane2
+    400022: Cavern_Floor_and_Ceiling_01:pPlane3
+    400024: Grave_Test:Mausoleum:pCube14
+    400026: Grave_Test:Mausoleum:pCube2
+    400028: Grave_Test:Mausoleum:pCube4
+    400030: Grave_Test:Mausoleum:polySurface1
+    400032: graveyard_terrain_01:Group21446
+    400034: Graveyard_Terrain_Tree_02
+    400036: Graveyard_Terrain_Tree_03
+    400038: Graveyard_Terrain_Tree_04
+    400040: Graveyard_Terrain_Tree_05
+    400042: Graveyard_Terrain_Tree_06
+    400044: Graveyard_Terrain_Tree_07
+    400046: Masoleum_Arch_Front
+    400048: Masoleum_Roof_Left
+    400050: Masoleum_Roof_Left_001
+    400052: Masoleum_Roof_Left_002
+    400054: Masoleum_Roof_Right
+    400056: Masoleum_Roof_Right_001
+    400058: Masoleum_Roof_Right_002
+    400060: Mausoleum1:polySurface11
+    400062: Mausoleum1:polySurface3
+    400064: Mausoleum1:polySurface5
+    400066: Mausoleum_Arch
+    400068: Mausoleum_Base
+    400070: Mausoleum_Roof_CenterStrut
+    400072: Mausoleum_Roof_LeftStrut1
+    400074: Mausoleum_Roof_Moulding_Left
+    400076: Mausoleum_Roof_Moulding_Rear
+    400078: Mausoleum_Roof_Moulding_Right
+    400080: Mausoleum_Roof_MouldingFront
+    400082: Mausoleum_Roof_RighttStrut
+    400084: Mausoleum_StoneColumn_Front_Left
+    400086: Mausoleum_StoneColumn_Front_LeftCorner
+    400088: Mausoleum_StoneColumn_Front_Right
+    400090: Mausoleum_StoneColumn_Front_RightCorner
+    400092: Mausoleum_StoneColumn_Rear_LeftCorner1
+    400094: Mausoleum_StoneColumn_Rear_RightCorner
+    400096: pCube1
+    400098: pCube1 1
+    400100: pCube1 2
+    400102: pCube1 3
+    400104: pCube1 4
+    400106: pCube1 5
+    400108: pCube1 6
+    400110: pCube10
+    400112: pCube2
+    400114: pCube2 1
+    400116: pCube2 2
+    400118: pCube2 3
+    400120: pCube2 4
+    400122: pCube2 5
+    400124: pCube2 6
+    400126: pCube3
+    400128: pCube4
+    400130: pCube5
+    400132: pCube6
+    400134: pCube7
+    400136: pCube8
+    400138: pCube9
+    400140: pCylinder1
+    400142: pCylinder2
+    400144: pCylinder2 1
+    400146: pCylinder2 2
+    400148: pCylinder2 3
+    400150: pCylinder2 4
+    400152: pCylinder2 5
+    400154: pCylinder3
+    400156: pCylinder3 1
+    400158: pCylinder3 2
+    400160: pCylinder3 3
+    400162: pCylinder3 4
+    400164: pCylinder3 5
+    400166: pCylinder4
+    400168: pCylinder4 1
+    400170: pCylinder4 2
+    400172: pCylinder4 3
+    400174: pCylinder4 4
+    400176: pCylinder4 5
+    400178: polySurface4
+    400180: polySurface5
+    400182: polySurface6
+    400184: //RootNode
+    400186: PRC_Master_Test:Graveyard_Terrain_Tree_02
+    400188: PRC_Master_Test:pCube1
+    400190: PRC_Master_Test:pCube2
+    400192: PRC_Master_Test:pCylinder2
+    400194: PRC_Master_Test:pCylinder3
+    400196: PRC_Master_Test:pCylinder4
+    400198: Prop_002
+    400200: Prop_004
+    400202: Prop_005
+    400204: Prop_006
+    400206: Scale_Guy
+    400208: Scale_Guy1
+    400210: Spike_Back
+    400212: Spike_Front
+    400214: Spike_Rail_Back_Left
+    400216: Spike_Rail_Back_Right
+    400218: Spike_Rail_Front_Left
+    400220: Spike_Rail_Front_Right
+    400222: Spike_Rail_Spike01
+    400224: Spike_Rail_Spike01 1
+    400226: Spike_Rail_Spike02
+    400228: Spike_Rail_Spike02 1
+    400230: Spike_Rail_Spike03
+    400232: Spike_Rail_Spike03 1
+    400234: Spike_Rail_Spike04
+    400236: Spike_Rail_Spike04 1
+    400238: Spike_Rail_Spike05
+    400240: Spike_Rail_Spike05 1
+    400242: Spike_Rail_Spike06
+    400244: Spike_Rail_Spike06 1
+    400246: Spike_Rail_Spike07
+    400248: Spike_Rail_Spike07 1
+    400250: Spike_Rail_Spike08
+    400252: Spike_Rail_Spike08 1
+    400254: Spike_Rail_Spike09
+    400256: Spike_Rail_Spike09 1
+    400258: Spike_Rail_Spike10
+    400260: Spike_Rail_Spike10 1
+    400262: Spike_Rail_Spike11
+    400264: Spike_Rail_Spike11 1
+    400266: Spike_Rail_Spike12
+    400268: Spike_Rail_Spike12 1
+    400270: Spike_Rail_Spike13
+    400272: Spike_Rail_Spike13 1
+    400274: Spike_Rail_Spike14
+    400276: Spike_Rail_Spike14 1
+    400278: SS_Stairs001
+    400280: SS_Stairs0010
+    400282: SS_Stairs0011
+    400284: SS_Stairs0012
+    400286: SS_Stairs0013
+    400288: SS_Stairs0014
+    400290: SS_Stairs0015
+    400292: SS_Stairs0016
+    400294: SS_Stairs0017
+    400296: SS_Stairs0018
+    400298: SS_Stairs0019
+    400300: SS_Stairs002
+    400302: SS_Stairs0020
+    400304: SS_Stairs0021
+    400306: SS_Stairs0022
+    400308: SS_Stairs0023
+    400310: SS_Stairs0024
+    400312: SS_Stairs0025
+    400314: SS_Stairs0026
+    400316: SS_Stairs0027
+    400318: SS_Stairs0028
+    400320: SS_Stairs0029
+    400322: SS_Stairs003
+    400324: SS_Stairs0030
+    400326: SS_Stairs0031
+    400328: SS_Stairs0032
+    400330: SS_Stairs0033
+    400332: SS_Stairs0034
+    400334: SS_Stairs0035
+    400336: SS_Stairs0036
+    400338: SS_Stairs0037
+    400340: SS_Stairs0038
+    400342: SS_Stairs0039
+    400344: SS_Stairs004
+    400346: SS_Stairs0040
+    400348: SS_Stairs0041
+    400350: SS_Stairs0042
+    400352: SS_Stairs0043
+    400354: SS_Stairs0044
+    400356: SS_Stairs0045
+    400358: SS_Stairs0046
+    400360: SS_Stairs0047
+    400362: SS_Stairs0048
+    400364: SS_Stairs0049
+    400366: SS_Stairs005
+    400368: SS_Stairs0050
+    400370: SS_Stairs0051
+    400372: SS_Stairs0052
+    400374: SS_Stairs0053
+    400376: SS_Stairs0054
+    400378: SS_Stairs0055
+    400380: SS_Stairs0056
+    400382: SS_Stairs0057
+    400384: SS_Stairs0058
+    400386: SS_Stairs0059
+    400388: SS_Stairs006
+    400390: SS_Stairs0060
+    400392: SS_Stairs0061
+    400394: SS_Stairs0062
+    400396: SS_Stairs0063
+    400398: SS_Stairs0064
+    400400: SS_Stairs0065
+    400402: SS_Stairs0066
+    400404: SS_Stairs0067
+    400406: SS_Stairs0068
+    400408: SS_Stairs007
+    400410: SS_Stairs008
+    400412: SS_Stairs009
+    400414: sunDirection
+    400416: transform1
+    400418: transform2
+    400420: transform3
+    400422: transform4
+    400424: transform5
+    400426: transform6
+    400428: transform7
+    400430: transform8
+    400432: Cavern_Floor_and_Ceiling_01:pCylinder2
+    400434: Cavern_Floor_and_Ceiling_01:ambientLight1
+    2300000: Cavern_Floor:Group33434
+    2300002: Cavern_Floor:Group34271
+    2300004: Cavern_Floor:Group65028
+    2300006: Cavern_Floor_and_Ceiling_01:Group33434
+    2300008: Cavern_Floor_and_Ceiling_01:Group34271
+    2300010: Cavern_Floor_and_Ceiling_01:Group65028
+    2300012: Cavern_Floor_and_Ceiling_01:Mausoleum_Wall_inner_Rear
+    2300014: Cavern_Floor_and_Ceiling_01:pCube1
+    2300016: Cavern_Floor_and_Ceiling_01:pCylinder1
+    2300018: Cavern_Floor_and_Ceiling_01:pPlane1
+    2300020: Cavern_Floor_and_Ceiling_01:pPlane2
+    2300022: Cavern_Floor_and_Ceiling_01:pPlane3
+    2300024: Grave_Test:Mausoleum:pCube2
+    2300026: Grave_Test:Mausoleum:pCube4
+    2300028: graveyard_terrain_01:Group21446
+    2300030: Graveyard_Terrain_Tree_02
+    2300032: Graveyard_Terrain_Tree_03
+    2300034: Graveyard_Terrain_Tree_04
+    2300036: Graveyard_Terrain_Tree_05
+    2300038: Graveyard_Terrain_Tree_06
+    2300040: Graveyard_Terrain_Tree_07
+    2300042: Masoleum_Roof_Left
+    2300044: Masoleum_Roof_Left_001
+    2300046: Masoleum_Roof_Left_002
+    2300048: Masoleum_Roof_Right
+    2300050: Masoleum_Roof_Right_001
+    2300052: Masoleum_Roof_Right_002
+    2300054: Mausoleum1:polySurface11
+    2300056: Mausoleum1:polySurface3
+    2300058: Mausoleum1:polySurface5
+    2300060: Mausoleum_Base
+    2300062: Mausoleum_Roof_CenterStrut
+    2300064: Mausoleum_Roof_LeftStrut1
+    2300066: Mausoleum_Roof_Moulding_Left
+    2300068: Mausoleum_Roof_Moulding_Rear
+    2300070: Mausoleum_Roof_Moulding_Right
+    2300072: Mausoleum_Roof_MouldingFront
+    2300074: Mausoleum_Roof_RighttStrut
+    2300076: Mausoleum_StoneColumn_Front_Left
+    2300078: Mausoleum_StoneColumn_Front_LeftCorner
+    2300080: Mausoleum_StoneColumn_Front_Right
+    2300082: Mausoleum_StoneColumn_Front_RightCorner
+    2300084: Mausoleum_StoneColumn_Rear_LeftCorner1
+    2300086: Mausoleum_StoneColumn_Rear_RightCorner
+    2300088: pCube1 1
+    2300090: pCube1 2
+    2300092: pCube1 3
+    2300094: pCube1 4
+    2300096: pCube1 5
+    2300098: pCube1 6
+    2300100: pCube10
+    2300102: pCube2
+    2300104: pCube2 1
+    2300106: pCube2 2
+    2300108: pCube2 3
+    2300110: pCube2 4
+    2300112: pCube2 5
+    2300114: pCube2 6
+    2300116: pCylinder1
+    2300118: pCylinder2
+    2300120: pCylinder2 1
+    2300122: pCylinder2 2
+    2300124: pCylinder2 3
+    2300126: pCylinder2 4
+    2300128: pCylinder2 5
+    2300130: pCylinder3
+    2300132: pCylinder3 1
+    2300134: pCylinder3 2
+    2300136: pCylinder3 3
+    2300138: pCylinder3 4
+    2300140: pCylinder3 5
+    2300142: pCylinder4
+    2300144: pCylinder4 1
+    2300146: pCylinder4 2
+    2300148: pCylinder4 3
+    2300150: pCylinder4 4
+    2300152: pCylinder4 5
+    2300154: polySurface4
+    2300156: polySurface5
+    2300158: polySurface6
+    2300160: PRC_Master_Test:Graveyard_Terrain_Tree_02
+    2300162: PRC_Master_Test:pCube1
+    2300164: PRC_Master_Test:pCube2
+    2300166: PRC_Master_Test:pCylinder2
+    2300168: PRC_Master_Test:pCylinder3
+    2300170: PRC_Master_Test:pCylinder4
+    2300172: Prop_002
+    2300174: Prop_004
+    2300176: Prop_005
+    2300178: Prop_006
+    2300180: Scale_Guy
+    2300182: Scale_Guy1
+    2300184: Spike_Back
+    2300186: Spike_Front
+    2300188: Spike_Rail_Back_Left
+    2300190: Spike_Rail_Back_Right
+    2300192: Spike_Rail_Front_Left
+    2300194: Spike_Rail_Front_Right
+    2300196: Spike_Rail_Spike01
+    2300198: Spike_Rail_Spike01 1
+    2300200: Spike_Rail_Spike02
+    2300202: Spike_Rail_Spike02 1
+    2300204: Spike_Rail_Spike03
+    2300206: Spike_Rail_Spike03 1
+    2300208: Spike_Rail_Spike04
+    2300210: Spike_Rail_Spike04 1
+    2300212: Spike_Rail_Spike05
+    2300214: Spike_Rail_Spike05 1
+    2300216: Spike_Rail_Spike06
+    2300218: Spike_Rail_Spike06 1
+    2300220: Spike_Rail_Spike07
+    2300222: Spike_Rail_Spike07 1
+    2300224: Spike_Rail_Spike08
+    2300226: Spike_Rail_Spike08 1
+    2300228: Spike_Rail_Spike09
+    2300230: Spike_Rail_Spike09 1
+    2300232: Spike_Rail_Spike10
+    2300234: Spike_Rail_Spike10 1
+    2300236: Spike_Rail_Spike11
+    2300238: Spike_Rail_Spike11 1
+    2300240: Spike_Rail_Spike12
+    2300242: Spike_Rail_Spike12 1
+    2300244: Spike_Rail_Spike13
+    2300246: Spike_Rail_Spike13 1
+    2300248: Spike_Rail_Spike14
+    2300250: Spike_Rail_Spike14 1
+    2300252: SS_Stairs001
+    2300254: SS_Stairs0010
+    2300256: SS_Stairs0011
+    2300258: SS_Stairs0012
+    2300260: SS_Stairs0013
+    2300262: SS_Stairs0014
+    2300264: SS_Stairs0015
+    2300266: SS_Stairs0016
+    2300268: SS_Stairs0017
+    2300270: SS_Stairs0018
+    2300272: SS_Stairs0019
+    2300274: SS_Stairs002
+    2300276: SS_Stairs0020
+    2300278: SS_Stairs0021
+    2300280: SS_Stairs0022
+    2300282: SS_Stairs0023
+    2300284: SS_Stairs0024
+    2300286: SS_Stairs0025
+    2300288: SS_Stairs0026
+    2300290: SS_Stairs0027
+    2300292: SS_Stairs0028
+    2300294: SS_Stairs0029
+    2300296: SS_Stairs003
+    2300298: SS_Stairs0030
+    2300300: SS_Stairs0031
+    2300302: SS_Stairs0032
+    2300304: SS_Stairs0033
+    2300306: SS_Stairs0034
+    2300308: SS_Stairs0035
+    2300310: SS_Stairs0036
+    2300312: SS_Stairs0037
+    2300314: SS_Stairs0038
+    2300316: SS_Stairs0039
+    2300318: SS_Stairs004
+    2300320: SS_Stairs0040
+    2300322: SS_Stairs0041
+    2300324: SS_Stairs0042
+    2300326: SS_Stairs0043
+    2300328: SS_Stairs0044
+    2300330: SS_Stairs0045
+    2300332: SS_Stairs0046
+    2300334: SS_Stairs0047
+    2300336: SS_Stairs0048
+    2300338: SS_Stairs0049
+    2300340: SS_Stairs005
+    2300342: SS_Stairs0050
+    2300344: SS_Stairs0051
+    2300346: SS_Stairs0052
+    2300348: SS_Stairs0053
+    2300350: SS_Stairs0054
+    2300352: SS_Stairs0055
+    2300354: SS_Stairs0056
+    2300356: SS_Stairs0057
+    2300358: SS_Stairs0058
+    2300360: SS_Stairs0059
+    2300362: SS_Stairs006
+    2300364: SS_Stairs0060
+    2300366: SS_Stairs0061
+    2300368: SS_Stairs0062
+    2300370: SS_Stairs0063
+    2300372: SS_Stairs0064
+    2300374: SS_Stairs0065
+    2300376: SS_Stairs0066
+    2300378: SS_Stairs0067
+    2300380: SS_Stairs0068
+    2300382: SS_Stairs007
+    2300384: SS_Stairs008
+    2300386: SS_Stairs009
+    2300388: Cavern_Floor_and_Ceiling_01:pCylinder2
+    3300000: Cavern_Floor:Group33434
+    3300002: Cavern_Floor:Group34271
+    3300004: Cavern_Floor:Group65028
+    3300006: Cavern_Floor_and_Ceiling_01:Group33434
+    3300008: Cavern_Floor_and_Ceiling_01:Group34271
+    3300010: Cavern_Floor_and_Ceiling_01:Group65028
+    3300012: Cavern_Floor_and_Ceiling_01:Mausoleum_Wall_inner_Rear
+    3300014: Cavern_Floor_and_Ceiling_01:pCube1
+    3300016: Cavern_Floor_and_Ceiling_01:pCylinder1
+    3300018: Cavern_Floor_and_Ceiling_01:pPlane1
+    3300020: Cavern_Floor_and_Ceiling_01:pPlane2
+    3300022: Cavern_Floor_and_Ceiling_01:pPlane3
+    3300024: Grave_Test:Mausoleum:pCube2
+    3300026: Grave_Test:Mausoleum:pCube4
+    3300028: graveyard_terrain_01:Group21446
+    3300030: Graveyard_Terrain_Tree_02
+    3300032: Graveyard_Terrain_Tree_03
+    3300034: Graveyard_Terrain_Tree_04
+    3300036: Graveyard_Terrain_Tree_05
+    3300038: Graveyard_Terrain_Tree_06
+    3300040: Graveyard_Terrain_Tree_07
+    3300042: Masoleum_Roof_Left
+    3300044: Masoleum_Roof_Left_001
+    3300046: Masoleum_Roof_Left_002
+    3300048: Masoleum_Roof_Right
+    3300050: Masoleum_Roof_Right_001
+    3300052: Masoleum_Roof_Right_002
+    3300054: Mausoleum1:polySurface11
+    3300056: Mausoleum1:polySurface3
+    3300058: Mausoleum1:polySurface5
+    3300060: Mausoleum_Base
+    3300062: Mausoleum_Roof_CenterStrut
+    3300064: Mausoleum_Roof_LeftStrut1
+    3300066: Mausoleum_Roof_Moulding_Left
+    3300068: Mausoleum_Roof_Moulding_Rear
+    3300070: Mausoleum_Roof_Moulding_Right
+    3300072: Mausoleum_Roof_MouldingFront
+    3300074: Mausoleum_Roof_RighttStrut
+    3300076: Mausoleum_StoneColumn_Front_Left
+    3300078: Mausoleum_StoneColumn_Front_LeftCorner
+    3300080: Mausoleum_StoneColumn_Front_Right
+    3300082: Mausoleum_StoneColumn_Front_RightCorner
+    3300084: Mausoleum_StoneColumn_Rear_LeftCorner1
+    3300086: Mausoleum_StoneColumn_Rear_RightCorner
+    3300088: pCube1 1
+    3300090: pCube1 2
+    3300092: pCube1 3
+    3300094: pCube1 4
+    3300096: pCube1 5
+    3300098: pCube1 6
+    3300100: pCube10
+    3300102: pCube2
+    3300104: pCube2 1
+    3300106: pCube2 2
+    3300108: pCube2 3
+    3300110: pCube2 4
+    3300112: pCube2 5
+    3300114: pCube2 6
+    3300116: pCylinder1
+    3300118: pCylinder2
+    3300120: pCylinder2 1
+    3300122: pCylinder2 2
+    3300124: pCylinder2 3
+    3300126: pCylinder2 4
+    3300128: pCylinder2 5
+    3300130: pCylinder3
+    3300132: pCylinder3 1
+    3300134: pCylinder3 2
+    3300136: pCylinder3 3
+    3300138: pCylinder3 4
+    3300140: pCylinder3 5
+    3300142: pCylinder4
+    3300144: pCylinder4 1
+    3300146: pCylinder4 2
+    3300148: pCylinder4 3
+    3300150: pCylinder4 4
+    3300152: pCylinder4 5
+    3300154: polySurface4
+    3300156: polySurface5
+    3300158: polySurface6
+    3300160: PRC_Master_Test:Graveyard_Terrain_Tree_02
+    3300162: PRC_Master_Test:pCube1
+    3300164: PRC_Master_Test:pCube2
+    3300166: PRC_Master_Test:pCylinder2
+    3300168: PRC_Master_Test:pCylinder3
+    3300170: PRC_Master_Test:pCylinder4
+    3300172: Prop_002
+    3300174: Prop_004
+    3300176: Prop_005
+    3300178: Prop_006
+    3300180: Scale_Guy
+    3300182: Scale_Guy1
+    3300184: Spike_Back
+    3300186: Spike_Front
+    3300188: Spike_Rail_Back_Left
+    3300190: Spike_Rail_Back_Right
+    3300192: Spike_Rail_Front_Left
+    3300194: Spike_Rail_Front_Right
+    3300196: Spike_Rail_Spike01
+    3300198: Spike_Rail_Spike01 1
+    3300200: Spike_Rail_Spike02
+    3300202: Spike_Rail_Spike02 1
+    3300204: Spike_Rail_Spike03
+    3300206: Spike_Rail_Spike03 1
+    3300208: Spike_Rail_Spike04
+    3300210: Spike_Rail_Spike04 1
+    3300212: Spike_Rail_Spike05
+    3300214: Spike_Rail_Spike05 1
+    3300216: Spike_Rail_Spike06
+    3300218: Spike_Rail_Spike06 1
+    3300220: Spike_Rail_Spike07
+    3300222: Spike_Rail_Spike07 1
+    3300224: Spike_Rail_Spike08
+    3300226: Spike_Rail_Spike08 1
+    3300228: Spike_Rail_Spike09
+    3300230: Spike_Rail_Spike09 1
+    3300232: Spike_Rail_Spike10
+    3300234: Spike_Rail_Spike10 1
+    3300236: Spike_Rail_Spike11
+    3300238: Spike_Rail_Spike11 1
+    3300240: Spike_Rail_Spike12
+    3300242: Spike_Rail_Spike12 1
+    3300244: Spike_Rail_Spike13
+    3300246: Spike_Rail_Spike13 1
+    3300248: Spike_Rail_Spike14
+    3300250: Spike_Rail_Spike14 1
+    3300252: SS_Stairs001
+    3300254: SS_Stairs0010
+    3300256: SS_Stairs0011
+    3300258: SS_Stairs0012
+    3300260: SS_Stairs0013
+    3300262: SS_Stairs0014
+    3300264: SS_Stairs0015
+    3300266: SS_Stairs0016
+    3300268: SS_Stairs0017
+    3300270: SS_Stairs0018
+    3300272: SS_Stairs0019
+    3300274: SS_Stairs002
+    3300276: SS_Stairs0020
+    3300278: SS_Stairs0021
+    3300280: SS_Stairs0022
+    3300282: SS_Stairs0023
+    3300284: SS_Stairs0024
+    3300286: SS_Stairs0025
+    3300288: SS_Stairs0026
+    3300290: SS_Stairs0027
+    3300292: SS_Stairs0028
+    3300294: SS_Stairs0029
+    3300296: SS_Stairs003
+    3300298: SS_Stairs0030
+    3300300: SS_Stairs0031
+    3300302: SS_Stairs0032
+    3300304: SS_Stairs0033
+    3300306: SS_Stairs0034
+    3300308: SS_Stairs0035
+    3300310: SS_Stairs0036
+    3300312: SS_Stairs0037
+    3300314: SS_Stairs0038
+    3300316: SS_Stairs0039
+    3300318: SS_Stairs004
+    3300320: SS_Stairs0040
+    3300322: SS_Stairs0041
+    3300324: SS_Stairs0042
+    3300326: SS_Stairs0043
+    3300328: SS_Stairs0044
+    3300330: SS_Stairs0045
+    3300332: SS_Stairs0046
+    3300334: SS_Stairs0047
+    3300336: SS_Stairs0048
+    3300338: SS_Stairs0049
+    3300340: SS_Stairs005
+    3300342: SS_Stairs0050
+    3300344: SS_Stairs0051
+    3300346: SS_Stairs0052
+    3300348: SS_Stairs0053
+    3300350: SS_Stairs0054
+    3300352: SS_Stairs0055
+    3300354: SS_Stairs0056
+    3300356: SS_Stairs0057
+    3300358: SS_Stairs0058
+    3300360: SS_Stairs0059
+    3300362: SS_Stairs006
+    3300364: SS_Stairs0060
+    3300366: SS_Stairs0061
+    3300368: SS_Stairs0062
+    3300370: SS_Stairs0063
+    3300372: SS_Stairs0064
+    3300374: SS_Stairs0065
+    3300376: SS_Stairs0066
+    3300378: SS_Stairs0067
+    3300380: SS_Stairs0068
+    3300382: SS_Stairs007
+    3300384: SS_Stairs008
+    3300386: SS_Stairs009
+    3300388: Cavern_Floor_and_Ceiling_01:pCylinder2
+    4300000: Mausoleum_Base
+    4300002: Mausoleum_StoneColumn_Front_Right
+    4300004: Mausoleum_StoneColumn_Front_Left
+    4300006: Mausoleum_StoneColumn_Front_RightCorner
+    4300008: Mausoleum_StoneColumn_Front_LeftCorner
+    4300010: Mausoleum_StoneColumn_Rear_RightCorner
+    4300012: Mausoleum_StoneColumn_Rear_LeftCorner1
+    4300014: Mausoleum_Roof_CenterStrut
+    4300016: Mausoleum_Roof_Moulding_Right
+    4300018: Mausoleum_Roof_Moulding_Left
+    4300020: Mausoleum_Roof_MouldingFront
+    4300022: Mausoleum_Roof_Moulding_Rear
+    4300024: Mausoleum_Roof_LeftStrut1
+    4300026: Mausoleum_Roof_RighttStrut
+    4300028: Masoleum_Roof_Right
+    4300030: Masoleum_Roof_Right_001
+    4300032: Masoleum_Roof_Right_002
+    4300034: Masoleum_Roof_Left
+    4300036: Masoleum_Roof_Left_001
+    4300038: Masoleum_Roof_Left_002
+    4300040: Spike_Front
+    4300042: Spike_Back
+    4300044: Spike_Rail_Front_Right
+    4300046: Spike_Rail_Spike08
+    4300048: Spike_Rail_Spike09
+    4300050: Spike_Rail_Spike10
+    4300052: Spike_Rail_Spike11
+    4300054: Spike_Rail_Spike12
+    4300056: Spike_Rail_Spike13
+    4300058: Spike_Rail_Spike14
+    4300060: Spike_Rail_Front_Left
+    4300062: Spike_Rail_Spike01
+    4300064: Spike_Rail_Spike02
+    4300066: Spike_Rail_Spike03
+    4300068: Spike_Rail_Spike04
+    4300070: Spike_Rail_Spike05
+    4300072: Spike_Rail_Spike06
+    4300074: Spike_Rail_Spike07
+    4300076: Spike_Rail_Back_Left
+    4300078: Spike_Rail_Spike01
+    4300080: Spike_Rail_Spike02
+    4300082: Spike_Rail_Spike03
+    4300084: Spike_Rail_Spike04
+    4300086: Spike_Rail_Spike05
+    4300088: Spike_Rail_Spike06
+    4300090: Spike_Rail_Spike07
+    4300092: Spike_Rail_Back_Right
+    4300094: Spike_Rail_Spike08
+    4300096: Spike_Rail_Spike09
+    4300098: Spike_Rail_Spike10
+    4300100: Spike_Rail_Spike11
+    4300102: Spike_Rail_Spike12
+    4300104: Spike_Rail_Spike13
+    4300106: Spike_Rail_Spike14
+    4300108: Mausoleum1:polySurface3
+    4300110: Mausoleum1:polySurface5
+    4300112: Mausoleum1:polySurface11
+    4300114: Prop_002
+    4300116: Prop_004
+    4300118: Prop_005
+    4300120: Prop_006
+    4300122: polySurface4
+    4300124: polySurface5
+    4300126: polySurface6
+    4300128: Grave_Test:Mausoleum:pCube4
+    4300130: Scale_Guy
+    4300132: Grave_Test:Mausoleum:pCube2
+    4300134: PRC_Master_Test:Graveyard_Terrain_Tree_02
+    4300136: PRC_Master_Test:pCylinder2
+    4300138: PRC_Master_Test:pCube1
+    4300140: PRC_Master_Test:pCube2
+    4300142: PRC_Master_Test:pCylinder3
+    4300144: PRC_Master_Test:pCylinder4
+    4300146: pCylinder1
+    4300148: Scale_Guy1
+    4300150: pCube2
+    4300152: SS_Stairs001
+    4300154: SS_Stairs002
+    4300156: SS_Stairs003
+    4300158: SS_Stairs004
+    4300160: SS_Stairs005
+    4300162: SS_Stairs006
+    4300164: SS_Stairs007
+    4300166: SS_Stairs008
+    4300168: SS_Stairs009
+    4300170: SS_Stairs0010
+    4300172: SS_Stairs0011
+    4300174: SS_Stairs0012
+    4300176: SS_Stairs0013
+    4300178: SS_Stairs0014
+    4300180: SS_Stairs0015
+    4300182: SS_Stairs0016
+    4300184: SS_Stairs0017
+    4300186: SS_Stairs0018
+    4300188: SS_Stairs0019
+    4300190: SS_Stairs0020
+    4300192: SS_Stairs0021
+    4300194: SS_Stairs0022
+    4300196: SS_Stairs0023
+    4300198: SS_Stairs0024
+    4300200: SS_Stairs0025
+    4300202: SS_Stairs0026
+    4300204: SS_Stairs0027
+    4300206: SS_Stairs0028
+    4300208: SS_Stairs0029
+    4300210: SS_Stairs0030
+    4300212: SS_Stairs0031
+    4300214: SS_Stairs0032
+    4300216: SS_Stairs0033
+    4300218: SS_Stairs0034
+    4300220: SS_Stairs0035
+    4300222: SS_Stairs0036
+    4300224: SS_Stairs0037
+    4300226: SS_Stairs0038
+    4300228: SS_Stairs0039
+    4300230: SS_Stairs0040
+    4300232: SS_Stairs0041
+    4300234: SS_Stairs0042
+    4300236: SS_Stairs0043
+    4300238: SS_Stairs0044
+    4300240: SS_Stairs0045
+    4300242: SS_Stairs0046
+    4300244: SS_Stairs0047
+    4300246: SS_Stairs0048
+    4300248: SS_Stairs0049
+    4300250: SS_Stairs0050
+    4300252: SS_Stairs0051
+    4300254: SS_Stairs0052
+    4300256: SS_Stairs0053
+    4300258: SS_Stairs0054
+    4300260: SS_Stairs0055
+    4300262: SS_Stairs0056
+    4300264: SS_Stairs0057
+    4300266: SS_Stairs0058
+    4300268: SS_Stairs0059
+    4300270: SS_Stairs0060
+    4300272: SS_Stairs0061
+    4300274: SS_Stairs0062
+    4300276: SS_Stairs0063
+    4300278: SS_Stairs0064
+    4300280: SS_Stairs0065
+    4300282: SS_Stairs0066
+    4300284: SS_Stairs0067
+    4300286: SS_Stairs0068
+    4300288: pCube10
+    4300290: Graveyard_Terrain_Tree_02
+    4300292: pCylinder2
+    4300294: pCube1
+    4300296: pCube2
+    4300298: pCylinder3
+    4300300: pCylinder4
+    4300302: Graveyard_Terrain_Tree_03
+    4300304: pCylinder2
+    4300306: pCube1
+    4300308: pCube2
+    4300310: pCylinder3
+    4300312: pCylinder4
+    4300314: Graveyard_Terrain_Tree_04
+    4300316: pCylinder2
+    4300318: pCube1
+    4300320: pCube2
+    4300322: pCylinder3
+    4300324: pCylinder4
+    4300326: Graveyard_Terrain_Tree_05
+    4300328: pCylinder2
+    4300330: pCube1
+    4300332: pCube2
+    4300334: pCylinder3
+    4300336: pCylinder4
+    4300338: Graveyard_Terrain_Tree_06
+    4300340: pCylinder2
+    4300342: pCube1
+    4300344: pCube2
+    4300346: pCylinder3
+    4300348: pCylinder4
+    4300350: Graveyard_Terrain_Tree_07
+    4300352: pCylinder2
+    4300354: pCube1
+    4300356: pCube2
+    4300358: pCylinder3
+    4300360: pCylinder4
+    4300362: graveyard_terrain_01:Group21446
+    4300364: Cavern_Floor_and_Ceiling_01:Group34271
+    4300366: Cavern_Floor_and_Ceiling_01:Group65028
+    4300368: Cavern_Floor_and_Ceiling_01:Group33434
+    4300370: Cavern_Floor:Group34271
+    4300372: Cavern_Floor:Group65028
+    4300374: Cavern_Floor:Group33434
+    4300376: Cavern_Floor_and_Ceiling_01:pCube1
+    4300378: Cavern_Floor_and_Ceiling_01:pCylinder1
+    4300380: Cavern_Floor_and_Ceiling_01:pPlane1
+    4300382: Cavern_Floor_and_Ceiling_01:pPlane2
+    4300384: Cavern_Floor_and_Ceiling_01:pPlane3
+    4300386: Cavern_Floor_and_Ceiling_01:Mausoleum_Wall_inner_Rear
+    4300388: Cavern_Floor_and_Ceiling_01:pCylinder2
+    6400000: Cavern_Floor:Group33434
+    6400002: Cavern_Floor:Group34271
+    6400004: Cavern_Floor:Group65028
+    6400006: Cavern_Floor_and_Ceiling_01:Group33434
+    6400008: Cavern_Floor_and_Ceiling_01:Group34271
+    6400010: Cavern_Floor_and_Ceiling_01:Group65028
+    6400012: Cavern_Floor_and_Ceiling_01:Mausoleum_Wall_inner_Rear
+    6400014: Cavern_Floor_and_Ceiling_01:pCube1
+    6400016: Cavern_Floor_and_Ceiling_01:pCylinder1
+    6400018: Cavern_Floor_and_Ceiling_01:pPlane1
+    6400020: Cavern_Floor_and_Ceiling_01:pPlane2
+    6400022: Cavern_Floor_and_Ceiling_01:pPlane3
+    6400024: Grave_Test:Mausoleum:pCube2
+    6400026: Grave_Test:Mausoleum:pCube4
+    6400028: graveyard_terrain_01:Group21446
+    6400030: Graveyard_Terrain_Tree_02
+    6400032: Graveyard_Terrain_Tree_03
+    6400034: Graveyard_Terrain_Tree_04
+    6400036: Graveyard_Terrain_Tree_05
+    6400038: Graveyard_Terrain_Tree_06
+    6400040: Graveyard_Terrain_Tree_07
+    6400042: Masoleum_Roof_Left
+    6400044: Masoleum_Roof_Left_001
+    6400046: Masoleum_Roof_Left_002
+    6400048: Masoleum_Roof_Right
+    6400050: Masoleum_Roof_Right_001
+    6400052: Masoleum_Roof_Right_002
+    6400054: Mausoleum1:polySurface11
+    6400056: Mausoleum1:polySurface3
+    6400058: Mausoleum1:polySurface5
+    6400060: Mausoleum_Base
+    6400062: Mausoleum_Roof_CenterStrut
+    6400064: Mausoleum_Roof_LeftStrut1
+    6400066: Mausoleum_Roof_Moulding_Left
+    6400068: Mausoleum_Roof_Moulding_Rear
+    6400070: Mausoleum_Roof_Moulding_Right
+    6400072: Mausoleum_Roof_MouldingFront
+    6400074: Mausoleum_Roof_RighttStrut
+    6400076: Mausoleum_StoneColumn_Front_Left
+    6400078: Mausoleum_StoneColumn_Front_LeftCorner
+    6400080: Mausoleum_StoneColumn_Front_Right
+    6400082: Mausoleum_StoneColumn_Front_RightCorner
+    6400084: Mausoleum_StoneColumn_Rear_LeftCorner1
+    6400086: Mausoleum_StoneColumn_Rear_RightCorner
+    6400088: pCube1 1
+    6400090: pCube1 2
+    6400092: pCube1 3
+    6400094: pCube1 4
+    6400096: pCube1 5
+    6400098: pCube1 6
+    6400100: pCube10
+    6400102: pCube2
+    6400104: pCube2 1
+    6400106: pCube2 2
+    6400108: pCube2 3
+    6400110: pCube2 4
+    6400112: pCube2 5
+    6400114: pCube2 6
+    6400116: pCylinder1
+    6400118: pCylinder2
+    6400120: pCylinder2 1
+    6400122: pCylinder2 2
+    6400124: pCylinder2 3
+    6400126: pCylinder2 4
+    6400128: pCylinder2 5
+    6400130: pCylinder3
+    6400132: pCylinder3 1
+    6400134: pCylinder3 2
+    6400136: pCylinder3 3
+    6400138: pCylinder3 4
+    6400140: pCylinder3 5
+    6400142: pCylinder4
+    6400144: pCylinder4 1
+    6400146: pCylinder4 2
+    6400148: pCylinder4 3
+    6400150: pCylinder4 4
+    6400152: pCylinder4 5
+    6400154: polySurface4
+    6400156: polySurface5
+    6400158: polySurface6
+    6400160: PRC_Master_Test:Graveyard_Terrain_Tree_02
+    6400162: PRC_Master_Test:pCube1
+    6400164: PRC_Master_Test:pCube2
+    6400166: PRC_Master_Test:pCylinder2
+    6400168: PRC_Master_Test:pCylinder3
+    6400170: PRC_Master_Test:pCylinder4
+    6400172: Prop_002
+    6400174: Prop_004
+    6400176: Prop_005
+    6400178: Prop_006
+    6400180: Scale_Guy
+    6400182: Scale_Guy1
+    6400184: Spike_Back
+    6400186: Spike_Front
+    6400188: Spike_Rail_Back_Left
+    6400190: Spike_Rail_Back_Right
+    6400192: Spike_Rail_Front_Left
+    6400194: Spike_Rail_Front_Right
+    6400196: Spike_Rail_Spike01
+    6400198: Spike_Rail_Spike01 1
+    6400200: Spike_Rail_Spike02
+    6400202: Spike_Rail_Spike02 1
+    6400204: Spike_Rail_Spike03
+    6400206: Spike_Rail_Spike03 1
+    6400208: Spike_Rail_Spike04
+    6400210: Spike_Rail_Spike04 1
+    6400212: Spike_Rail_Spike05
+    6400214: Spike_Rail_Spike05 1
+    6400216: Spike_Rail_Spike06
+    6400218: Spike_Rail_Spike06 1
+    6400220: Spike_Rail_Spike07
+    6400222: Spike_Rail_Spike07 1
+    6400224: Spike_Rail_Spike08
+    6400226: Spike_Rail_Spike08 1
+    6400228: Spike_Rail_Spike09
+    6400230: Spike_Rail_Spike09 1
+    6400232: Spike_Rail_Spike10
+    6400234: Spike_Rail_Spike10 1
+    6400236: Spike_Rail_Spike11
+    6400238: Spike_Rail_Spike11 1
+    6400240: Spike_Rail_Spike12
+    6400242: Spike_Rail_Spike12 1
+    6400244: Spike_Rail_Spike13
+    6400246: Spike_Rail_Spike13 1
+    6400248: Spike_Rail_Spike14
+    6400250: Spike_Rail_Spike14 1
+    6400252: SS_Stairs001
+    6400254: SS_Stairs0010
+    6400256: SS_Stairs0011
+    6400258: SS_Stairs0012
+    6400260: SS_Stairs0013
+    6400262: SS_Stairs0014
+    6400264: SS_Stairs0015
+    6400266: SS_Stairs0016
+    6400268: SS_Stairs0017
+    6400270: SS_Stairs0018
+    6400272: SS_Stairs0019
+    6400274: SS_Stairs002
+    6400276: SS_Stairs0020
+    6400278: SS_Stairs0021
+    6400280: SS_Stairs0022
+    6400282: SS_Stairs0023
+    6400284: SS_Stairs0024
+    6400286: SS_Stairs0025
+    6400288: SS_Stairs0026
+    6400290: SS_Stairs0027
+    6400292: SS_Stairs0028
+    6400294: SS_Stairs0029
+    6400296: SS_Stairs003
+    6400298: SS_Stairs0030
+    6400300: SS_Stairs0031
+    6400302: SS_Stairs0032
+    6400304: SS_Stairs0033
+    6400306: SS_Stairs0034
+    6400308: SS_Stairs0035
+    6400310: SS_Stairs0036
+    6400312: SS_Stairs0037
+    6400314: SS_Stairs0038
+    6400316: SS_Stairs0039
+    6400318: SS_Stairs004
+    6400320: SS_Stairs0040
+    6400322: SS_Stairs0041
+    6400324: SS_Stairs0042
+    6400326: SS_Stairs0043
+    6400328: SS_Stairs0044
+    6400330: SS_Stairs0045
+    6400332: SS_Stairs0046
+    6400334: SS_Stairs0047
+    6400336: SS_Stairs0048
+    6400338: SS_Stairs0049
+    6400340: SS_Stairs005
+    6400342: SS_Stairs0050
+    6400344: SS_Stairs0051
+    6400346: SS_Stairs0052
+    6400348: SS_Stairs0053
+    6400350: SS_Stairs0054
+    6400352: SS_Stairs0055
+    6400354: SS_Stairs0056
+    6400356: SS_Stairs0057
+    6400358: SS_Stairs0058
+    6400360: SS_Stairs0059
+    6400362: SS_Stairs006
+    6400364: SS_Stairs0060
+    6400366: SS_Stairs0061
+    6400368: SS_Stairs0062
+    6400370: SS_Stairs0063
+    6400372: SS_Stairs0064
+    6400374: SS_Stairs0065
+    6400376: SS_Stairs0066
+    6400378: SS_Stairs0067
+    6400380: SS_Stairs0068
+    6400382: SS_Stairs007
+    6400384: SS_Stairs008
+    6400386: SS_Stairs009
+    6400388: Cavern_Floor_and_Ceiling_01:pCylinder2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
